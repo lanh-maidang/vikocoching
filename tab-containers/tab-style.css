@@ -1,0 +1,89 @@
+.container-tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+.container-tab {
+    padding: 10px 20px;
+    border: 2px solid #333;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+.container-tab.active {
+    background: #333;
+    color: #fff;
+}
+.tab-content {
+    display: none;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: #f9f9f9;
+}
+.tab-content.active {
+    display: block;
+}
+
+/* css for each of task */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 40px;
+  background-color: #f2f2f2;
+}
+
+.task-container {
+  display: flex;
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.task-list {
+  width: 30%;
+  background: #333;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.task-btn {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 12px;
+  color: white;
+  background-color: #555;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+.task-btn:hover {
+  background-color: #777;
+}
+
+.task-content {
+  width: 70%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.task-detail {
+  display: none;
+  animation: fadeIn 0.3s ease-in;
+}
+
+.task-detail.active {
+  display: block;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
