@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Tổng quan",
+    "icon": "icons/help.svg",
+    "content": [
+      {
+        "contentTitle": "Ai nên sử dụng dịch vụ của GrowthPath?",
+        "description": "Dịch vụ của chúng tôi phù hợp với: Sinh viên sắp tốt nghiệp muốn định hướng nghề nghiệp, nhân viên muốn phát triển sự nghiệp, người muốn chuyển đổi nghề nghiệp, lãnh đạo muốn nâng cao kỹ năng quản lý, và bất kỳ ai muốn hiểu rõ hơn về bản thân."
+      },
+      {
+        "contentTitle": "GrowthPath khác gì so với các dịch vụ tư vấn khác?",
+        "description": "Mô tả chi tiết cho nội dung."
+      },
+      {
+        "contentTitle": "Tỷ lệ thành công của khách hàng như thế nào?",
+        "description": "Mô tả chi tiết cho nội dung."
+      },
+      {
+        "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?",
+        "description": "Mô tả chi tiết cho nội dung."
+      },
+      {
+        "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?",
+        "description": "Mô tả chi tiết cho nội dung."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dịch vụ",
+    "icon": "icons/user.svg",
+    "content": [
+      { "contentTitle": "Nên chọn coaching cá nhân hay workshop nhóm?", "description": "Coaching cá nhân phù hợp khi bạn có mục tiêu cụ thể, cần sự riêng tư và muốn được tập trung 100%. Workshop nhóm tốt cho việc học hỏi kinh nghiệm từ người khác, tiết kiệm chi phí và phù hợp với các chủ đề kỹ năng chung." },
+      { "contentTitle": "Quy trình coaching 1-1 diễn ra như thế nào?", "description": "Mô tả ..." },
+      { "contentTitle": "Nền tảng trắc nghiệm trực tuyến hoạt động như thế nào?", "description": "Mô tả ..." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Đặt lịch",
+    "icon": "icons/clock.svg",
+    "content": [
+      { "contentTitle": "Làm thế nào để đặt lịch tư vấn?", "description": "Bạn có thể đặt lịch qua website (trang Đặt lịch), gọi điện thoại +84 123 456 789, hoặc gửi email đến info@growthpath.vn. Quy trình đặt lịch online chỉ mất 3-5 phút với 3 bước đơn giản." },
+      { "contentTitle": "Tôi có thể đặt lịch trước bao lâu?", "description": "Mô tả ..." },
+      { "contentTitle": "Tôi có thể thay đổi lịch hẹn không?", "description": "Mô tả ..." },
+      { "contentTitle": "Làm sao tôi biết lịch hẹn đã được xác nhận?", "description": "Mô tả ..." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Chi phí",
+    "icon": "icons/dollar.svg",
+    "content": [
+      { "contentTitle": "Các hình thức thanh toán được chấp nhận?", "description": "Chúng tôi chấp nhận thanh toán qua chuyển khoản ngân hàng, thẻ tín dụng/ghi nợ. Hóa đơn VAT được cung cấp theo yêu cầu." },
+      { "contentTitle": "Có chương trình giảm giá nào không?", "description": "Mô tả ..." },
+      { "contentTitle": "Chính sách hoàn tiền như thế nào?", "description": "Mô tả ..." },
+      { "contentTitle": "Có giá ưu đãi cho doanh nghiệp không?", "description": "Mô tả ..." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kỹ thuật",
+    "icon": "icons/book.svg",
+    "content": [
+      { "contentTitle": "Yêu cầu kỹ thuật cho buổi tư vấn trực tuyến?", "description": "Cần có kết nối internet ổn định (tối thiểu 5Mbps), máy tính/laptop có camera và microphone, hoặc smartphone. Chúng tôi sử dụng Google Meet hoặc Zoom. Link tham gia sẽ được gửi qua email trước buổi hẹn 30 phút." },
+      { "contentTitle": "Thông tin cá nhân của tôi có được bảo mật không?", "description": "Mô tả ..." },
+      { "contentTitle": "Nếu gặp sự cố kỹ thuật thì làm sao?", "description": "Chúng tôi có đội ngũ hỗ trợ kỹ thuật 24/7. Bạn có thể liên hệ qua hotline, email, hoặc chat trực tuyến trên website. Thường các vấn đề được giải quyết trong vòng 15 phút. Nếu sự cố nghiêm trọng, chúng tôi sẽ sắp xếp lại lịch hẹn." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." },
+      { "contentTitle": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed?", "description": "Mô tả ..." }
+    ]
+  }
+]
